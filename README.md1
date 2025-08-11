@@ -1,0 +1,80 @@
+# Mockora AI
+
+**Mockora AI** is an EdTech web platform designed to help users prepare for real-world job interviews through interactive **AI-powered** and **peer-to-peer mock interviews**.  
+Whether you're a student, junior developer, or career switcher, Mockora supports your growth by tracking your progress and boosting your confidence to ace interviews.
+
+---
+
+## 🌐 Landing Page
+
+The marketing landing page is live and maintained in the `apps/landing` directory.  
+You can visit it here:  
+🌐 [https://mockora.com/](https://mockora.com/)
+
+### 🖼️ Preview  
+![Landing Page Preview](./assets/landing-screenshot.png)
+
+---
+
+## 📦 Repository Structure
+
+- `apps/landing`: Fully built and deployed marketing landing page.  
+- `apps/web-app`: Main application under development — AI-driven mock interviews, progress tracking, peer-to-peer support.  
+- `docs/`: Comprehensive product documentation including architecture, feature specs, monetization plans, and demo material.
+
+---
+
+## 💡 What is Mockora?
+
+Mockora is an AI-first interview prep tool that blends the best of AI and peer learning:
+
+### 🤖 AI Interviews
+- Intelligent question generation tailored to user-selected roles (e.g., Frontend, Backend, Data Science)  
+- Real-time feedback on both technical answers and soft skills  
+- Structured interview sessions with multiple stages  
+- Detailed final reports covering scores, strengths, weaknesses, and improvement tips  
+
+### 👥 Peer-to-Peer Practice
+- Practice interviews with classmates or peers from the same bootcamp  
+- Flexible roles: one as interviewer, the other as candidate  
+- AI-powered support for interviewers, including hints and dynamic question suggestions  
+- Custom rooms with unique IDs and written feedback after sessions  
+
+---
+
+## 🧑‍🎓 EdTech & B2B Value
+
+Mockora is more than a personal productivity tool — it’s built for career-focused education:
+
+### 🎓 For Students (B2C)
+- A safe, supportive space to practice technical and behavioral interviews  
+- Track skill development and progress over time  
+- Designed like a “Duolingo for interviews” for consistent growth  
+
+### 🏫 For Schools & Bootcamps (B2B)
+- Seamless integration with LMS platforms  
+- Track student readiness and progress with real-time data and reports  
+- Help improve job placement rates and enhance school reputation  
+
+---
+
+## 🛠 Development Status
+
+The main application is actively being developed in the [`apps/web-app`](./apps/web-app) directory.  
+Follow the weekly progress as new features roll out.
+
+---
+
+## 📂 Documentation
+
+All product specs, architecture diagrams, roadmaps, and technical documentation are stored in the [`/docs`](./docs) folder.
+
+---
+
+## 📬 Stay Tuned
+
+This is just the beginning.  
+Mockora aims to revolutionize interview practice by combining AI, peer learning, and actionable feedback.  
+
+If you’re a bootcamp, student, or investor interested in collaboration — get in touch!
+
